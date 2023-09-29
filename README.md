@@ -1,2 +1,2 @@
 # LoginPageProject
-I developed the Login Page using HTML, CSS and Javascript.
+I developed the Login Page using HTML and CSS.
